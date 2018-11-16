@@ -1,0 +1,6 @@
+https://www.codeproject.com/Articles/17564/Simple-Performance-Chart
+https://www.codeproject.com/Articles/30180/Simple-Signal-Generator
+
+
+https://stackoverflow.com/questions/14659684/creating-a-wav-file-in-c-sharp
+https://github.com/stephentoub/MidiSharp
